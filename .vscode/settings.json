@@ -14,5 +14,6 @@
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
   "prettier.requireConfig": true,
-  "workbench.view.alwaysShowHeaderActions": true
+  "workbench.view.alwaysShowHeaderActions": true,
+  "cSpell.ignoreWords": ["Efoe", "Gnassia"]
 }
